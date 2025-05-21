@@ -1,12 +1,10 @@
 ## Hi there 👋
 
+- I'm Osama Waked 
 
-**OsamaWaked/OsamaWaked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...<div align="center">
+- 🔭 I’m working as backend developer
+- 📚 I'm currently learning software engineering
+<div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 

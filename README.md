@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **OsamaWaked/OsamaWaked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -88,11 +88,4 @@ Here are some ideas to get you started:
   <img src="https://streak-stats.demolab.com?user=OsamaWaked&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+

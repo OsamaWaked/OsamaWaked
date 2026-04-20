@@ -1,21 +1,179 @@
-# 💫 About Me:
-## 👋 Hey, I'm Osama<br><br>Backend Engineer focused on building real-world, production-grade systems — not just simple apps.<br><br>I design and develop scalable backend architectures powering:<br>- Enterprise POS & operations platforms<br>- E-commerce & business management systems<br>- Multi-dashboard applications with complex workflows<br><br>💡 What I actually do:<br>- Build secure, high-performance REST APIs<br>- Design complex database structures & optimize heavy queries<br>- Handle financial systems & transaction integrity<br>- Implement advanced auth systems (2FA, OAuth, access control)<br>- Improve performance using Redis, caching, and system optimization<br><br>⚙️ Tech I work with:<br>- Laravel, PHP, Node.js<br>- MySQL, PostgreSQL, Redis<br>- React, Vue.js, Inertia.js<br><br>🚀 Currently:<br>- Scaling backend systems<br>- Going deeper into system design & architecture<br>- Building more robust and high-load applications<br><br>I care about clean architecture, performance, and building systems that actually survive real-world usage.
+<h1 align="center">Hi 👋, I'm Osama Waked</h1>
+<h3 align="center">Backend Developer | PHP & Laravel Specialist | API Architect</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F8CC9&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+PHP+%26+Laravel;RESTful+API+Architect;Building+Scalable+%26+Secure+Systems;Database+Design+%26+Query+Optimization" alt="Typing SVG" />
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/osama.nasser.5439) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/osamawakedd/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/osama-waked-858610247/?jobid=1234) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:osamanasser10@gmail.com) 
-
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=OsamaWaked&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=OsamaWaked&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=OsamaWaked&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=OsamaWaked&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OsamaWaked&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/OsamaWaked?label=Followers&style=social" alt="followers" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=OsamaWaked&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+🔭 I'm a **Backend Developer** at **Dev-Fact Software** with 2 years of experience building robust, secure, and scalable backend systems.
+
+- 💼 Specializing in **PHP Laravel** and modern backend architecture
+- 🛠️ Building production-grade systems for **POS, e-commerce, CRM, and business management**
+- 🔐 Passionate about **secure APIs**, **performance tuning**, and **clean code**
+- 🎓 **Bachelor's in Business Information Systems** — Helwan University (GPA 3.72/4.0)
+- 📍 Based in **Cairo, Egypt**
+- 📫 Reach me at: **osamanasser10@gmail.com**
+
+---
+
+## 🌱 Currently Learning & Working On
+
+- 🚀 Deepening my expertise in **Node.js** and **TypeScript** for full-stack versatility
+- 🏗️ Architecting scalable microservices and exploring **distributed systems**
+- 🧪 Advancing **testing strategies** with Pest PHP and PHPUnit
+- 📊 Optimizing high-performance applications with advanced **Redis caching** patterns
+- ☁️ Exploring **DevOps practices** and modern deployment workflows
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" />
+</p>
+
+### Databases & Caching
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eloquent_ORM-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
+
+### Frontend & Styling
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/AJAX-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+</p>
+
+### Tools & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+### Testing
+<p>
+  <img src="https://img.shields.io/badge/Pest_PHP-A98AFE?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OsamaWaked&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaWaked&layout=compact&theme=tokyonight&hide=html,css" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OsamaWaked&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OsamaWaked&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🏆 Featured Projects
+
+### 🛒 [Mongez POS — Enterprise POS & Operations Platform](https://demo.mongezpos.com)
+> Comprehensive enterprise-grade POS platform covering sales, inventory, manufacturing, accounting, HR, CRM, and analytics.
+
+- 🏗️ Architected scalable backend supporting **multi-location** business workflows
+- 📦 Real-time inventory management with **FIFO methodology** for accurate stock valuation
+- 💰 Financial systems handling accounting, reporting, and transactions with strong data integrity
+- 🌐 Multi-channel **e-commerce** integration for synchronized online/offline operations
+- 🏭 Modular systems for **manufacturing (BOM)**, repair tracking, and asset lifecycle management
+
+`Laravel` `MySQL` `Redis` `Vue.js` `Inertia.js`
+
+---
+
+### 🎮 [PSN System — PlayStation Network Management Platform](https://dynamiccraft.net)
+> Highly secure multi-dashboard platform for managing PlayStation Network operations.
+
+- 🔐 Multi-level authentication with **2FA**, Google login, and email verification
+- 📊 Three role-based dashboards: **Admin**, **Wholesale/Partner**, and **Customer**
+- 🔔 Real-time notifications and alerts powered by **Firebase**
+- ⚡ RESTful APIs integrated with **TypeScript + React + Reflex** frontends
+- 🛡️ Google reCAPTCHA and advanced authorization for sensitive operations
+
+`Laravel` `MySQL` `Redis` `React` `TypeScript` `Firebase`
+
+---
+
+### 📰 [AutoZone Magazine — Automotive News Platform](https://autozone-mag.com)
+> High-performance automotive news and magazine platform with custom CMS.
+
+- 🎛️ Custom dashboard built with **Voyager CMS** with role-based access control
+- 📧 **Queued email system** for newsletters and notifications at scale
+- ⚡ Optimized REST APIs, MySQL queries, and Redis caching for high traffic
+- 📱 SEO-friendly responsive frontend with TypeScript, React, and Reflex
+
+`Laravel` `Voyager CMS` `Redis` `React` `TypeScript`
+
+---
+
+### 🌾 [Alfursan Exports — Agriculture Corporate Website](https://alfursanexports.com)
+> Corporate website for an agriculture and vegetable export company.
+
+- 👨‍💻 **Sole developer** — handled backend, CMS, and frontend integration end-to-end
+- 🛠️ Built with **Laravel + Voyager CMS** for easy content management
+- 📱 Responsive, secure, and stable across all devices
+
+`Laravel` `Voyager CMS`
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:osamanasser10@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/osama-waked/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/OsamaWaked">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="tel:+201007928898">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  📍 <b>Maadi, Cairo, Egypt</b> &nbsp;|&nbsp; 🌐 Open to collaborations & opportunities
+</p>
+
+---
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/OsamaWaked">OsamaWaked</a> — "Clean code, scalable systems, secure by design."</i>
+</p>

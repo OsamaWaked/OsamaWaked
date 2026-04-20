@@ -19,7 +19,6 @@
 - 💼 Specializing in **PHP Laravel** and modern backend architecture
 - 🛠️ Building production-grade systems for **POS, e-commerce, CRM, and business management**
 - 🔐 Passionate about **secure APIs**, **performance tuning**, and **clean code**
-- 🎓 **Bachelor's in Business Information Systems** — Helwan University (GPA 3.72/4.0)
 - 📍 Based in **Cairo, Egypt**
 - 📫 Reach me at: **osamanasser10@gmail.com**
 

@@ -19,6 +19,7 @@
 - 💼 Specializing in **PHP Laravel** and modern backend architecture
 - 🛠️ Building production-grade systems for **POS, e-commerce, CRM, and business management**
 - 🔐 Passionate about **secure APIs**, **performance tuning**, and **clean code**
+- 🎓 **Bachelor's in Business Information Systems** — Helwan University (GPA 3.72/4.0)
 - 📍 Based in **Cairo, Egypt**
 - 📫 Reach me at: **osamanasser10@gmail.com**
 
@@ -82,19 +83,14 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OsamaWaked&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaWaked&layout=compact&theme=tokyonight&hide=html,css" />
-</p>
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OsamaWaked&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OsamaWaked&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OsamaWaked&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---

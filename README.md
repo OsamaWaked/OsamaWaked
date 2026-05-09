@@ -65,6 +65,40 @@
   <img src="https://img.shields.io/badge/AJAX-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
 
+### Queueing, Jobs & Background Processing
+<p>
+  <img src="https://img.shields.io/badge/Laravel_Queues-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel_Horizon-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/BullMQ-EA4C89?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cron_Jobs-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Task_Automation-6C47FF?style=for-the-badge&logo=task&logoColor=white" />
+</p>
+
+### AI Integration & Automation
+<p>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_API-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agents-10A37F?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM_Integration-4B5563?style=for-the-badge" />
+</p>
+
+### Debugging & Monitoring
+<p>
+  <img src="https://img.shields.io/badge/Xdebug-FB7A24?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel_Debugbar-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Logging-555555?style=for-the-badge&logo=logstash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Error_Tracking-EA4335?style=for-the-badge&logo=sentry&logoColor=white" />
+</p>
+
+### Networking & Proxy
+<p>
+  <img src="https://img.shields.io/badge/API_Integration-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proxy_Handling-FF6B6B?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webhooks-4CAF50?style=for-the-badge&logo=webhook&logoColor=white" />
+</p>
+
 ### Tools & DevOps
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -79,8 +113,9 @@
 <p>
   <img src="https://img.shields.io/badge/Pest_PHP-A98AFE?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Feature_Testing-34D399?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/E2E_Testing-6366F1?style=for-the-badge" />
 </p>
-
 ---
 
 ## 📊 GitHub Activity

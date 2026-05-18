@@ -145,7 +145,7 @@
 
 ---
 
-### 🎮 [PSN System — PlayStation Network Management Platform](https://dynamiccraft.net)
+### 🎮 [PSN System — PlayStation Network Management Platform](https://gamingfreakeg.com/)
 > Highly secure multi-dashboard platform for managing PlayStation Network operations.
 
 - 🔐 Multi-level authentication with **2FA**, Google login, and email verification
